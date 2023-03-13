@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+.card-container{
+  margin-top: 5rem;
+  margin-left: 1rem;
+  text-align: left;
+}
+
+.projects-card{
+  width: 25rem;
+}
+
+.header-text{
+  font-size: 24px;
+  font-weight: bold;
+}
+nav .navbar-nav .nav-item .nav-link{
+  color: white !important;
+}
+.logout{
+color: white !important;
+}
+.welcome-text{
+color: white !important;
+}
+
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 0;
+}
+
+.register_card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 0;
+}
+
+.login_card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 0;
+  margin-top: 140px;
+}
